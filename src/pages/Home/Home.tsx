@@ -6,7 +6,7 @@ export const Home: React.FC = () => {
     return (
         <Flex w='100%' h='100%' align='center' justify='center'>
             <Text>
-                opiaaaaaaaaaaaa
+                teste
             </Text>
         </Flex>
     );
